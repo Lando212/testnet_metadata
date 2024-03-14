@@ -1,6 +1,6 @@
   {
-  "name": "<the name of your pool>",
-  "description": "<Come up with an interesting or uninteresting description here",
-  "ticker": "<your ticker>",
-  "homepage": "<if you have a homepage, put it here>"
+  "name": "Lando",
+  "description": "This is landons domain, here to make money",
+  "ticker": "Cash",
+  "homepage": "https://www.berkshirehathaway.com/"
   }
